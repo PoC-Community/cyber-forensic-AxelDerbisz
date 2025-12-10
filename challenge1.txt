@@ -1,0 +1,3 @@
+python3 .\volatility3\vol.py -f .\vmss.core windows.sessions
+
+poc{PoC{BrunoDeChezPoC,PoC_W0rk$Hop}}
